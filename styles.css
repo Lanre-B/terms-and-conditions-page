@@ -1,3 +1,7 @@
 body {
     margin-left: 80px;
 }
+
+p {
+    line-height: 1.8;
+}
